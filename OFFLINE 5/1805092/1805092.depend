@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1617979331 source:e:\myprojects\c++\offline 5\1805092\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<queue>
+	<stdlib.h>
+	<ctime>
+	"heap.h"
+
+1617979437 e:\myprojects\c++\offline 5\1805092\heap.h
+
